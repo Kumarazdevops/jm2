@@ -2,3 +2,4 @@
 Data modified in file.txt 
 
 modified
+new modification
